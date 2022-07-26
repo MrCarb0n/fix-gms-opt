@@ -1,0 +1,17 @@
+{
+    "pbA": "╭─────────────────────────────────────────────╮",
+    "pbB": "│      Fix GMS Optimization. | @MrCarb0n      │",
+    "pbC": "├─────────────────────────────────────────────┤",
+    "pbD": "│     Give proper credit before doing any     │",
+    "pbE": "│        distribution or modification.        │",
+    "pbF": "│                                             │",
+    "pbG": "│     All files and codes licensed under      │",
+    "pbH": "│       GNU General Public License v3.0       │",
+    "pbI": "├─────────────────────────────────────────────┤",
+    "pbJ": "│   https://github.com/MrCarb0n/fix-gms-opt   │",
+    "pbK": "╰─────────────────────────────────────────────╯",
+    "version": "1.0",
+    "versionCode": 10,
+    "zipUrl": "https://github.com/MrCarb0n/fix-gms-opt/releases/download/v1.0-dev/fixgmsopt_v1.0.zip",
+    "changelog": "https://raw.githubusercontent.com/MrCarb0n/fix-gms-opt/master/CHANGELOG.md"
+}

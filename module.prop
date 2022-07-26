@@ -1,0 +1,19 @@
+# ╭─────────────────────────────────────────────╮
+# │      Fix GMS Optimization. | @MrCarb0n      │
+# ├─────────────────────────────────────────────┤
+# │     Give proper credit before doing any     │
+# │        distribution or modification.        │
+# │                                             │
+# │     All files and codes licensed under      │
+# │       GNU General Public License v3.0       │
+# ├─────────────────────────────────────────────┤
+# │   https://github.com/MrCarb0n/fix-gms-opt   │
+# ╰─────────────────────────────────────────────╯
+
+id=fix-gms-opt
+name=Fix GMS Opt. | DEV
+version=1.0-dev
+versionCode=10
+author=MrCarb0n
+description=Fix and Optimize Google Play Service (GMS)' excessive battery drain and wakelock.
+updateJson=https://raw.githubusercontent.com/MrCarb0n/fix-gms-opt/master/fixgmsopt.json
